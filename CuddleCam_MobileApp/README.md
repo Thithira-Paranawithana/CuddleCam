@@ -1,4 +1,4 @@
-# cuddleslider
+# CuddleCam
 
 A new Flutter project.
 
