@@ -8,7 +8,7 @@ A mobile app, developed using Flutter and Dart, provides access to view the most
 <h3>Architecture of the system:</h3>
 
 <p align="center">
-    <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/bb2f7e81-6264-4b8d-b8cd-c2f213841bdb" alt="CuddleCam Image" width="350" height="350">
+    <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/bb2f7e81-6264-4b8d-b8cd-c2f213841bdb" alt="CuddleCam architecture" width="350" height="350">
 </p>
 
 
@@ -29,7 +29,7 @@ Mobile app is developed using Flutter and Dart with necessary dependencies and p
 <h3>Some UIs of the CuddleCam mobile application:</h3>
 
 <p align="center">
-    <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/35c57509-7e07-433e-925b-5792fd7823c3" alt="CuddleCam Image" width="250" height="450">
+    <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/35c57509-7e07-433e-925b-5792fd7823c3" alt="CuddleCam App" width="250" height="450">
 </p>
 
 
