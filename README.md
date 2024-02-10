@@ -28,7 +28,7 @@ Mobile app is developed using Flutter and Dart with necessary dependencies and p
 
 <h3>Some UIs of the CuddleCam mobile application:</h3>
 
-<p>
+<p align="center">
     <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/35c57509-7e07-433e-925b-5792fd7823c3" alt="CuddleCam Image" width="250" height="450">
 </p>
 
