@@ -3,7 +3,7 @@
 
 “CuddleCam” is a portable baby monitoring system designed to provide parents with peace of mind by utilizing machine learning. The embedded system consists of a Raspberry Pi and a webcam to monitor babies. 
 Using trained models, the system can detect and differentiate the baby from animals such as cats, dogs, and other individuals. The system alerts parents if the baby engages in risky behavior, such as falling or crying.
-A mobile app, developed using Flutter and Dart, provides access to view the most recent 10 minutes of camera footage. The app also enables real-time video streaming through Wi-Fi. The project involves setting up the Raspberry Pi, training the computer vision models, constructing mobile apps, implementing video streaming capabilities, and following a step-by-step approach to achieve the desired functionality.
+A mobile app, developed using Flutter and Dart, provides access to view the most recent 10 minutes of camera footage. The app also enables real-time video streaming through Wi-Fi. The project involves setting up the Raspberry Pi, training the computer vision models, constructing mobile app, implementing video streaming capabilities, and following a step-by-step approach to achieve the desired functionality.
 
 <h3>Architecture of the system:</h3>
 
