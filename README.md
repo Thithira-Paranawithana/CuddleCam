@@ -7,7 +7,7 @@ A mobile app, developed using Flutter and Dart, provides access to view the most
 
 <h3>Architecture of the system:</h3>
 
-<p align="center">
+<p>
     <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/bb2f7e81-6264-4b8d-b8cd-c2f213841bdb" alt="CuddleCam Image" width="350" height="350">
 </p>
 
