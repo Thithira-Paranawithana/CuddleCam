@@ -22,3 +22,9 @@ OpenCV is used to identify the external camera connected to the Raspberry Pi. Af
 The notifications and the video footage are sent to the mobile app using Flask and HTTP protocol.
 Threads are used to handle parallel programming happens in the embedded system including getting the live video, processing computer vision models, saving the video footage and communicating with the mobile phone.
 Mobile app is developed using Flutter and Dart with necessary dependencies and permissions. There, http requests are used to receive notifications and most recent video footage.
+
+Some UIs of the CuddleCam mobile application:
+
+![image](https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/35c57509-7e07-433e-925b-5792fd7823c3)
+
+
