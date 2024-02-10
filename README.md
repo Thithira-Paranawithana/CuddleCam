@@ -7,7 +7,12 @@ A mobile app, developed using Flutter and Dart, provides access to view the most
 
 <h3>Architecture of the system:</h3>
 
-![image](https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/bb2f7e81-6264-4b8d-b8cd-c2f213841bdb)
+<p align="center">
+  <code>
+    <img src="https://github.com/Thithira-Paranawithana/CuddleCam/assets/153026117/bb2f7e81-6264-4b8d-b8cd-c2f213841bdb" alt="CuddleCam Image" width="350" height="350">
+  </code>
+</p>
+
 
 The baby is captured by using the webcam and the live video is sent to the Raspberry Pi where computer vision techniques are used to identify objects, poses and emotions of the baby. Whenever the program recognizes a risky movement or a risky situation of the baby, a notification is sent to the mobile app with clarification about the situation immediately through flask server. Both Raspberry Pi and the mobile app are connected to the same Wi-Fi network, and the Raspberry Pi is given a static IP address to be identified by the mobile in the network. 
 
