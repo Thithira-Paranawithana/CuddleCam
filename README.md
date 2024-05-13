@@ -1,5 +1,5 @@
 # CuddleCam
-<I>A portable and automated baby monitoring system which uses computer vision techniques to notify the parents through a mobile app whenever a risky situation occurs.</I>
+<I>A portable and automated baby monitoring system which uses computer vision techniques including emotion detection and pose detection to notify the parents through a mobile app whenever a risky situation occurs.</I>
 
 “CuddleCam” is a portable baby monitoring system designed to provide parents with peace of mind by utilizing machine learning. The embedded system consists of a Raspberry Pi and a webcam to monitor babies. 
 Using trained models, the system can detect and differentiate the baby from animals such as cats, dogs, and other individuals. The system alerts parents if the baby engages in risky behavior, such as falling or crying.
